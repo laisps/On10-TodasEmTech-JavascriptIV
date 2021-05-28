@@ -94,3 +94,4 @@ function filterPokemon(name, type) {
         return checkName && checkType;
     })
     return filteredList;
+}
